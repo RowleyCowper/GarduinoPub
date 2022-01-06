@@ -22,5 +22,5 @@ In the end the Arduino watering tool worked, as did the local monitoring.  The d
 </table>
 
 <h2> HW Reference </h2>
-* The wiring diagram can be found in <a href="https://github.com/RowleyCowper/GarduinoPub/blob/main/references/WayInTop.pdf"> the included PDF</a>. I used the <a href="https://www.amazon.com/gp/product/B07TMVNTDK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">WayInTop kit available on Amazon.</a> 
+* The wiring diagram can be found in <a href="https://github.com/RowleyCowper/GarduinoPub/blob/main/references/WayInTop.pdf"> the included PDF</a>. I used the <a href="https://www.amazon.com/gp/product/B07TMVNTDK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">WayInTop kit available on Amazon.</a> <br>
 * As a control, I used a manual moisture and light sensor, also found on <a href="https://www.amazon.com/gp/product/B07BR52P26/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1">Amazon</a>.
